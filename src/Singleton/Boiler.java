@@ -1,3 +1,5 @@
+package Singleton;
+
 public final class Boiler {
 
     public enum StateBoiler { EMPTY, FULL }
